@@ -1,0 +1,24 @@
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/bin/UniversalGames.ap_ \
+ : /Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/res/drawable-hdpi/icon.png \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/res/drawable-ldpi/icon.png \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/res/drawable-mdpi/icon.png \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/res/values/strings.xml \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/bin/res/drawable-hdpi/icon.png \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/bin/res/drawable-ldpi/icon.png \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/bin/res/drawable-mdpi/icon.png \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/assets/ipad \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/assets/ipadhd \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/assets/iphone \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/assets/iphonehd \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/assets/iphonehd5 \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/assets/ipad/launch.png \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/assets/ipadhd/launch.png \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/assets/iphone/game_bg.png \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/assets/iphone/main_bg.png \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/assets/iphone/main_button_play_a.png \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/assets/iphone/main_button_play_b.png \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/assets/iphone/pigleBoy.plist \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/assets/iphone/pigleBoy.png \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/assets/iphonehd/launch.png \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/assets/iphonehd5/launch.png \
+/Users/apple/Desktop/GameLearning/SpriteSheetAnimation/proj.android/bin/AndroidManifest.xml \
